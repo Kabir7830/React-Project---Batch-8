@@ -3,7 +3,7 @@ import "./custom.css"
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import { Autoplay } from "swiper/modules";
-
+import ContactForm from "@/components/contact/form";
 
 export default function Homepage(){
   return (
@@ -35,6 +35,7 @@ export default function Homepage(){
           This is my third slide
         </SwiperSlide>
       </Swiper>
+      <ContactForm />
         <h2 className="heading">Hello</h2>
         <p className="text-[50px]">Welcome to my-app</p>
       </>
