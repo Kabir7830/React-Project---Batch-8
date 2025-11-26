@@ -1,0 +1,274 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Milk, Eggs, Bread, Fruits",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2025-02-01",
+      "category": "Personal"
+    },
+    {
+      "id": 2,
+      "title": "Complete React assignment",
+      "description": "Finish component rendering task",
+      "completed": false,
+           "priority": "high",
+      "dueDate": "2025-02-02",
+      "category": "Study"
+    },
+    {
+      "id": 3,
+      "title": "Wash clothes",
+      "description": "Laundry and drying",
+      "completed": true,
+      "priority": "low",
+      "dueDate": "2025-01-30",
+      "category": "Home"
+    },
+    {
+      "id": 4,
+      "title": "Pay electricity bill",
+      "description": "Pay online before due date",
+      "completed": false,
+      "priority": "high",
+      "dueDate": "2025-02-03",
+      "category": "Bills"
+    },
+    {
+      "id": 5,
+      "title": "Prepare PPT for project",
+      "description": "Make 10-slide presentation",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2025-02-04",
+      "category": "Work"
+    },
+    {
+      "id": 6,
+      "title": "Workout",
+      "description": "Home workout for 45 minutes",
+      "completed": true,
+      "priority": "low",
+      "dueDate": "2025-01-29",
+      "category": "Fitness"
+    },
+    {
+      "id": 7,
+      "title": "Buy birthday gift",
+      "description": "Gift for friend",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2025-02-05",
+      "category": "Personal"
+    },
+    {
+      "id": 8,
+      "title": "Update CV",
+      "description": "Add new project details",
+      "completed": false,
+      "priority": "high",
+      "dueDate": "2025-02-07",
+      "category": "Career"
+    },
+    {
+      "id": 9,
+      "title": "Clean room",
+      "description": "Organize table and shelves",
+      "completed": true,
+      "priority": "low",
+      "dueDate": "2025-01-28",
+      "category": "Home"
+    },
+    {
+      "id": 10,
+      "title": "Study Next.js",
+      "description": "Learn routing and API routes",
+      "completed": false,
+      "priority": "high",
+      "dueDate": "2025-02-06",
+      "category": "Study"
+    },
+    {
+      "id": 11,
+      "title": "Prepare lunch",
+      "description": "Cook dal and rice",
+      "completed": true,
+      "priority": "low",
+      "dueDate": "2025-01-30",
+      "category": "Home"
+    },
+    {
+      "id": 12,
+      "title": "Write blog",
+      "description": "Write article on Web Development",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2025-02-09",
+      "category": "Work"
+    },
+    {
+      "id": 13,
+      "title": "Fix laptop issues",
+      "description": "Slow performance issue",
+      "completed": false,
+      "priority": "high",
+      "dueDate": "2025-02-08",
+      "category": "Personal"
+    },
+    {
+      "id": 14,
+      "title": "Call mom",
+      "description": "Weekly catch-up call",
+      "completed": true,
+      "priority": "low",
+      "dueDate": "2025-01-29",
+      "category": "Personal"
+    },
+    {
+      "id": 15,
+      "title": "Backup files",
+      "description": "Backup data to Google Drive",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2025-02-10",
+      "category": "Personal"
+    },
+    {
+      "id": 16,
+      "title": "Plan weekend trip",
+      "description": "Finalize hotel booking",
+      "completed": false,
+      "priority": "low",
+      "dueDate": "2025-02-11",
+      "category": "Travel"
+    },
+    {
+      "id": 17,
+      "title": "Prepare notes",
+      "description": "Notes for JavaScript exam",
+      "completed": false,
+      "priority": "high",
+      "dueDate": "2025-02-03",
+      "category": "Study"
+    },
+    {
+      "id": 18,
+      "title": "Buy new shoes",
+      "description": "Sports shoes for running",
+      "completed": false,
+      "priority": "low",
+      "dueDate": "2025-02-12",
+      "category": "Shopping"
+    },
+    {
+      "id": 19,
+      "title": "Test API in Next.js",
+      "description": "Call JSON server endpoints",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2025-02-01",
+      "category": "Development"
+    },
+    {
+      "id": 20,
+      "title": "Prepare invoice",
+      "description": "Generate invoice for client",
+      "completed": false,
+      "priority": "high",
+      "dueDate": "2025-02-04",
+      "category": "Work"
+    },
+    {
+      "id": 21,
+      "title": "Watch tutorial",
+      "description": "Next.js 14 App Router",
+      "completed": true,
+      "priority": "low",
+      "dueDate": "2025-01-31",
+      "category": "Learning"
+    },
+    {
+      "id": 22,
+      "title": "Check emails",
+      "description": "Reply to pending emails",
+      "completed": true,
+      "priority": "medium",
+      "dueDate": "2025-01-29",
+      "category": "Work"
+    },
+    {
+      "id": 23,
+      "title": "Do DSA practice",
+      "description": "Practice arrays and strings",
+      "completed": false,
+      "priority": "high",
+      "dueDate": "2025-02-05",
+      "category": "Study"
+    },
+    {
+      "id": 24,
+      "title": "Book doctor appointment",
+      "description": "General health check-up",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2025-02-06",
+      "category": "Health"
+    },
+    {
+      "id": 25,
+      "title": "Organize wardrobe",
+      "description": "Sort old clothes",
+      "completed": true,
+      "priority": "low",
+      "dueDate": "2025-01-28",
+      "category": "Home"
+    },
+    {
+      "id": 26,
+      "title": "Update GitHub repo",
+      "description": "Push latest commits",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2025-02-03",
+      "category": "Development"
+    },
+    {
+      "id": 27,
+      "title": "Meditate",
+      "description": "15-minute mindfulness session",
+      "completed": true,
+      "priority": "low",
+      "dueDate": "2025-01-30",
+      "category": "Health"
+    },
+    {
+      "id": 28,
+      "title": "Plan content for Instagram",
+      "description": "Create next 3 posts",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2025-02-07",
+      "category": "Social Media"
+    },
+    {
+      "id": 29,
+      "title": "Check bank statement",
+      "description": "Review monthly transactions",
+      "completed": false,
+      "priority": "low",
+      "dueDate": "2025-02-02",
+      "category": "Finance"
+    },
+    {
+      "id": 30,
+      "title": "Clean email inbox",
+      "description": "Delete spam and sort folders",
+      "completed": false,
+      "priority": "low",
+      "dueDate": "2025-02-10",
+      "category": "Work"
+    }
+  ]
+}
