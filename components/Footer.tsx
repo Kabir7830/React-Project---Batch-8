@@ -1,54 +1,5 @@
 "use client"
-import { useState } from "react";
-export default function Header() {
-  const [menuOpen, setMenuOpen] = useState(false);
-
-  return (
-    <header style={{
-      background: '#000',
-      color: '#fff',
-      padding: '20px 0',
-      position: 'sticky',
-      top: 0,
-      zIndex: 1000,
-      borderBottom: '1px solid #333'
-    }}>
-      <div style={{
-        maxWidth: '1200px',
-        margin: '0 auto',
-        padding: '0 20px',
-        display: 'flex',
-        justifyContent: 'space-between',
-        alignItems: 'center'
-      }}>
-        <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
-          MyCompany
-        </div>
-        
-        <nav style={{ display: 'flex', gap: '30px' }}>
-          <a href="#home" style={{ color: '#fff', textDecoration: 'none', transition: 'color 0.3s' }}
-             onMouseOver={(e) => e.target.style.color = '#999'}
-             onMouseOut={(e) => e.target.style.color = '#fff'}>
-            Home
-          </a>
-          <a href="#about" style={{ color: '#fff', textDecoration: 'none', transition: 'color 0.3s' }}
-             onMouseOver={(e) => e.target.style.color = '#999'}
-             onMouseOut={(e) => e.target.style.color = '#fff'}>
-            About
-          </a>
-          <a href="#contact" style={{ color: '#fff', textDecoration: 'none', transition: 'color 0.3s' }}
-             onMouseOver={(e) => e.target.style.color = '#999'}
-             onMouseOut={(e) => e.target.style.color = '#fff'}>
-            Contact
-          </a>
-        </nav>
-      </div>
-    </header>
-  );
-}
-
-// Footer Component
-function Footer() {
+export default function Footer() {
   return (
     <footer style={{
       background: '#000',

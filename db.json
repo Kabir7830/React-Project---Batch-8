@@ -1,7 +1,7 @@
 {
   "todos": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Buy groceries",
       "description": "Milk, Eggs, Bread, Fruits",
       "completed": false,
@@ -10,43 +10,25 @@
       "category": "Personal"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Complete React assignment",
       "description": "Finish component rendering task",
       "completed": false,
-           "priority": "high",
+      "priority": "high",
       "dueDate": "2025-02-02",
       "category": "Study"
     },
     {
-      "id": 3,
-      "title": "Wash clothes",
-      "description": "Laundry and drying",
+      "id": "5",
+      "title": "Prepare PPT for project edited",
+      "description": "Make 10-slide presentation ",
       "completed": true,
-      "priority": "low",
-      "dueDate": "2025-01-30",
-      "category": "Home"
-    },
-    {
-      "id": 4,
-      "title": "Pay electricity bill",
-      "description": "Pay online before due date",
-      "completed": false,
-      "priority": "high",
-      "dueDate": "2025-02-03",
-      "category": "Bills"
-    },
-    {
-      "id": 5,
-      "title": "Prepare PPT for project",
-      "description": "Make 10-slide presentation",
-      "completed": false,
       "priority": "medium",
       "dueDate": "2025-02-04",
       "category": "Work"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Workout",
       "description": "Home workout for 45 minutes",
       "completed": true,
@@ -55,16 +37,11 @@
       "category": "Fitness"
     },
     {
-      "id": 7,
-      "title": "Buy birthday gift",
-      "description": "Gift for friend",
-      "completed": false,
-      "priority": "medium",
-      "dueDate": "2025-02-05",
-      "category": "Personal"
+      "completed": true,
+      "id": "7"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Update CV",
       "description": "Add new project details",
       "completed": false,
@@ -73,7 +50,7 @@
       "category": "Career"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Clean room",
       "description": "Organize table and shelves",
       "completed": true,
@@ -82,7 +59,7 @@
       "category": "Home"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "Study Next.js",
       "description": "Learn routing and API routes",
       "completed": false,
@@ -91,7 +68,7 @@
       "category": "Study"
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Prepare lunch",
       "description": "Cook dal and rice",
       "completed": true,
@@ -100,7 +77,7 @@
       "category": "Home"
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Write blog",
       "description": "Write article on Web Development",
       "completed": false,
@@ -109,7 +86,7 @@
       "category": "Work"
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Fix laptop issues",
       "description": "Slow performance issue",
       "completed": false,
@@ -118,7 +95,7 @@
       "category": "Personal"
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Call mom",
       "description": "Weekly catch-up call",
       "completed": true,
@@ -127,7 +104,7 @@
       "category": "Personal"
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Backup files",
       "description": "Backup data to Google Drive",
       "completed": false,
@@ -136,16 +113,16 @@
       "category": "Personal"
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "Plan weekend trip",
       "description": "Finalize hotel booking",
-      "completed": false,
+      "completed": true,
       "priority": "low",
       "dueDate": "2025-02-11",
       "category": "Travel"
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "Prepare notes",
       "description": "Notes for JavaScript exam",
       "completed": false,
@@ -154,7 +131,7 @@
       "category": "Study"
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "Buy new shoes",
       "description": "Sports shoes for running",
       "completed": false,
@@ -163,7 +140,7 @@
       "category": "Shopping"
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "Test API in Next.js",
       "description": "Call JSON server endpoints",
       "completed": false,
@@ -172,7 +149,7 @@
       "category": "Development"
     },
     {
-      "id": 20,
+      "id": "20",
       "title": "Prepare invoice",
       "description": "Generate invoice for client",
       "completed": false,
@@ -181,7 +158,7 @@
       "category": "Work"
     },
     {
-      "id": 21,
+      "id": "21",
       "title": "Watch tutorial",
       "description": "Next.js 14 App Router",
       "completed": true,
@@ -190,7 +167,7 @@
       "category": "Learning"
     },
     {
-      "id": 22,
+      "id": "22",
       "title": "Check emails",
       "description": "Reply to pending emails",
       "completed": true,
@@ -199,7 +176,7 @@
       "category": "Work"
     },
     {
-      "id": 23,
+      "id": "23",
       "title": "Do DSA practice",
       "description": "Practice arrays and strings",
       "completed": false,
@@ -208,7 +185,7 @@
       "category": "Study"
     },
     {
-      "id": 24,
+      "id": "24",
       "title": "Book doctor appointment",
       "description": "General health check-up",
       "completed": false,
@@ -217,7 +194,7 @@
       "category": "Health"
     },
     {
-      "id": 25,
+      "id": "25",
       "title": "Organize wardrobe",
       "description": "Sort old clothes",
       "completed": true,
@@ -226,7 +203,7 @@
       "category": "Home"
     },
     {
-      "id": 26,
+      "id": "26",
       "title": "Update GitHub repo",
       "description": "Push latest commits",
       "completed": false,
@@ -235,7 +212,7 @@
       "category": "Development"
     },
     {
-      "id": 27,
+      "id": "27",
       "title": "Meditate",
       "description": "15-minute mindfulness session",
       "completed": true,
@@ -244,7 +221,7 @@
       "category": "Health"
     },
     {
-      "id": 28,
+      "id": "28",
       "title": "Plan content for Instagram",
       "description": "Create next 3 posts",
       "completed": false,
@@ -253,22 +230,22 @@
       "category": "Social Media"
     },
     {
-      "id": 29,
-      "title": "Check bank statement",
-      "description": "Review monthly transactions",
+      "id": "29",
+      "title": "new item",
+      "description": "dex",
       "completed": false,
-      "priority": "low",
-      "dueDate": "2025-02-02",
-      "category": "Finance"
+      "priority": "medium",
+      "dueDate": "fhdsjfh",
+      "category": "work"
     },
     {
-      "id": 30,
-      "title": "Clean email inbox",
-      "description": "Delete spam and sort folders",
-      "completed": false,
-      "priority": "low",
-      "dueDate": "2025-02-10",
-      "category": "Work"
+      "id": "30",
+      "title": "",
+      "description": "",
+      "completed": true,
+      "priority": "",
+      "dueDate": "",
+      "category": ""
     }
   ]
 }
