@@ -1,5 +1,8 @@
 "use client"
 import { useState, useEffect } from "react";
+import {Heading, Heading2} from "@/components/Heading";
+import { Camera, ArrowRight } from 'lucide-react';
+import Button from "@/components/Buttons";
 export default function Homepage() {
   const [currentSlide, setCurrentSlide] = useState(0);
 
@@ -94,6 +97,11 @@ export default function Homepage() {
         }}>
           Why Choose Us
         </h2>
+        <Heading>This is my default heading</Heading>
+        <Heading variant="primary" id="p-heading" onClick={()=>{console.log('hello')}}>This is my primary heading</Heading>
+        <Heading variant="secondary" className="text-4xl text-blue-300!">This is my secondary heading</Heading>
+        <Heading2 variant="danger">This is my danger heading <ArrowRight color="blue" /></Heading2>
+        <Button />
 
         <div style={{
           display: 'grid',

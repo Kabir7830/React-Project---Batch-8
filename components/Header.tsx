@@ -1,8 +1,8 @@
 "use client"
 import { useState } from "react";
+import DropDown from "./DropDown";
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
-
   return (
     <header style={{
       background: '#000',
@@ -41,6 +41,8 @@ export default function Header() {
              onMouseOut={(e) => e.target.style.color = '#fff'}>
             Contact
           </a>
+          <DropDown label="DownDown" menuItems={["Page 1","Page 2", "Page 3"]}/>
+          <DropDown label="Shop" menuItems={["Product","Cart", "Checkout"]}/>
         </nav>
       </div>
     </header>
